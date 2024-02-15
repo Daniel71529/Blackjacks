@@ -10,4 +10,4 @@ Info on project
 + Brady Bowlden: Tester
 + Liam Kaung: Audio
 ## Class diagram
-(https://github.com/Daniel71529/Blackjacks/blob/main/images/Class.drawio.png?raw=true)
+!(https://github.com/Daniel71529/Blackjacks/blob/main/images/Class.drawio.png?raw=true)
