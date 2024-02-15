@@ -1,7 +1,7 @@
 # BlackJack
 
 ## Group Project
-fgdg
+Info on project
 ## Members
 + Cormac Stone: Research/Coder
 + Kevin Ying: Head Coder
