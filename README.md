@@ -11,3 +11,5 @@ Info on project
 + Liam Kaung: Audio
 ## Class diagram
 ![](https://github.com/Daniel71529/Blackjacks/blob/main/images/Class.drawio.png?raw=true)
+## GUI Mockup
+![](https://github.com/Daniel71529/Blackjacks/blob/main/images/Class.drawio.png?raw=true)
