@@ -9,5 +9,5 @@ Info on project
 + Charles Madsen: Graphics designer
 + Brady Bowlden: Tester
 + Liam Kaung: Audio
-## Group Project
-Info on project
+## Class diagram
+(https://github.com/Daniel71529/Blackjacks/blob/main/images/Class.drawio.png?raw=true)
