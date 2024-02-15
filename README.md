@@ -1,7 +1,7 @@
 # BlackJack
 
 ## Group Project
-Info on project
+We created a BlackJack like game using pyth, including betting and dynamic graphics. You play against a dealer and can bet or stand, and in special circumstances split. We are using replit to code and pygame to generate the graphics.
 ## Members
 + Cormac Stone: Research/Coder
 + Kevin Ying: Head Coder
