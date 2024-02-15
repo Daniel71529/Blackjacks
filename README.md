@@ -1,4 +1,4 @@
 # BlackJack
 
-## members
-+Cormac Stone: research
+## Members
++ Cormac Stone: research
