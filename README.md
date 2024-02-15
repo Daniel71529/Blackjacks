@@ -1,4 +1,8 @@
 # BlackJack
 
 ## Members
-+ Cormac Stone: research
++ Cormac Stone: Research/Coder
++ Kevin Ying: Head Coder
++ Daniel Lou: Project Manager/ Coder
++ Brady
++ Liam
