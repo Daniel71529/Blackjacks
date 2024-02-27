@@ -12,4 +12,4 @@ We created a BlackJack like game using python 3, including betting and dynamic g
 ## Class diagram
 ![](https://github.com/Daniel71529/Blackjacks/blob/main/images/Class.drawio%20(1).png?raw=true)
 ## GUI Mockup
-![](https://github.com/Daniel71529/Blackjacks/blob/main/images/Screenshot%202024-02-15%20at%2010.25.27%20AM.png?raw=true)
+![](https://github.com/Daniel71529/Blackjacks/blob/main/images/GUI.png?raw=true)
