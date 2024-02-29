@@ -19,3 +19,5 @@ We created a BlackJack like game using python 3, including betting and dynamic g
 ![]()
 ## Win Screen
 ![]()
+## Lose Screen
+![]()
