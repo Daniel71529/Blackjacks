@@ -10,7 +10,7 @@ We created a BlackJack like game using python 3, including betting and dynamic g
 + Brady Bowlden: Tester
 + Liam Kaung: Audio
 ## Class Diagram
-![](https://github.com/Daniel71529/Blackjacks/blob/main/images/DanielClass.png?raw=true)
+![](https://github.com/Daniel71529/Blackjacks/blob/main/images/DanielClassDiagram.png?raw=true)
 ## GUI Mockup
 ![](https://github.com/Daniel71529/Blackjacks/blob/main/images/DanielGui.png?raw=true)
 ## Start Screen
