@@ -14,10 +14,12 @@ We created a BlackJack like game using python 3, including betting and dynamic g
 ## GUI Mockup
 ![](https://github.com/Daniel71529/Blackjacks/blob/main/images/DanielGui.png?raw=true)
 ## Start Screen
-![](https://github.com/Daniel71529/Blackjacks/blob/main/images/DanielStartScreen.png?raw=true)
+![](https://github.com/Daniel71529/Blackjacks/blob/main/images/DanielStart.png?raw=true)
 ## Running App
 ![](https://github.com/Daniel71529/Blackjacks/blob/main/images/DanielRunningApp.png?raw=true)
 ## Win Screen
 ![](https://github.com/Daniel71529/Blackjacks/blob/main/images/DanielWinScreen.png?raw=true)
 ## Lose Screen
 ![](https://github.com/Daniel71529/Blackjacks/blob/main/images/DanielLoseScreen.png?raw=true)
+## Bankrupt Screen
+![](https://github.com/Daniel71529/Blackjacks/blob/main/images/DanielStart.png?raw=true)
