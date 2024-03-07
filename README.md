@@ -15,6 +15,8 @@ We created a BlackJack like game using python 3, including betting and dynamic g
 ![](https://github.com/Daniel71529/Blackjacks/blob/main/images/DanielMockup.png?raw=true)
 ## Start Screen
 ![](https://github.com/Daniel71529/Blackjacks/blob/main/images/DanielStart.png?raw=true)
+## Betting Screen
+![](https://github.com/Daniel71529/Blackjacks/blob/main/images/DanielRunning.png?raw=true)
 ## Running App
 ![](https://github.com/Daniel71529/Blackjacks/blob/main/images/DanielRunning.png?raw=true)
 ## Win Screen
